@@ -9,5 +9,5 @@ Demo: [https://drive.google.com/file/d/1hGbgoY9d3VthCyLLkcT9bX1UB-4A7-qU/view?us
 
 ## Setup
 
-1. Run `npm install` after cloning your repository
+1. Run `npm install` after cloning your repository to install the node modules/packages
 2. Run `npm run dev` to start your Vite development server
