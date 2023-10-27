@@ -1,8 +1,13 @@
-# React + Vite
+# WMAD A-0523 Lab Day - To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Instructions
 
-Currently, two official plugins are available:
+Demo: [https://drive.google.com/file/d/1hGbgoY9d3VthCyLLkcT9bX1UB-4A7-qU/view?usp=sharing](https://drive.google.com/file/d/1hGbgoY9d3VthCyLLkcT9bX1UB-4A7-qU/view?usp=sharing)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Recreate the todo app as shown in the demo video.
+2. You do not need to edit the CSS files or add new components. These are already provided on the source code.
+
+## Setup
+
+1. Run `npm install` after cloning your repository
+2. Run `npm run dev` to start your Vite development server
